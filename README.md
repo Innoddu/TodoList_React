@@ -2,6 +2,9 @@
   <h1> ToDo List </h1>
 </div>
 <br>
+<p align="center">
+<img width="320" alt="TodoListImage" src="https://github.com/Innoddu/TodoList_React/assets/70001944/d10c239d-d743-45d5-bc50-31ce1f5ec963">
+</p>
 <div align="center">
   <h1>Key Features</h1>
 </div>
